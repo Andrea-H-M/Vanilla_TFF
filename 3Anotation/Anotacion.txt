@@ -1,0 +1,31 @@
+################################################################################################
+## RNA-seq: Anotation                                                                         ##
+## Author: Olga Andrea Hernandez Miranda, Miranda H                                           ##
+## Date: 23/01/2021                                                                           ##
+## This script performs an open reading frame search to identify homology via BLAST           ##                                                                                     
+################################################################################################
+
+## TransDecoder, Trinotate and BLAST are installed in Ubuntu
+## PFAM and Uniprot databases are downloaded
+
+##################################---Anotation-TransDecoder---###################################
+
+TransDecoder.LongOrfs -t trinity_out_dir/Trinity.fasta
+
+TransDecoder.Predict -t trinity_out_dir/Trinity.fasta
+
+
+##################################---search to homology---###################################
+
+## make a index
+
+#blastx -db basededatos/uniprot_sprot.pep -query trinity_out_dir/Trinity.fasta 
+-#num_threads 2 -max_target_seqs 1 -outfmt 6 -evalue 1e-5 > reporte/#swissprot.blastx.outfmt6
+
+blastp -query Trinity.fasta.transdecoder.pep -db basededatos/uniprot_sprot.pep 
+-num_threads 2 -max_target_seqs 1 -outfmt 6 -evalue 1e-5 > swissprot.blastp.outfmt6
+
+## make an index for hidden Markov models
+hmmpress basededatos/Pfam-A.hmm 
+ 
+hmmscan --cpu 2 --domtblout TrinotatePFAM.out basededatos/Pfam-A.hmm Trinity.fasta.transdecoder.pep

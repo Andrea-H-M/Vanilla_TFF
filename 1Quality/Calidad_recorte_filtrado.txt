@@ -1,0 +1,29 @@
+############################################################################################
+## RNA-seq: Analysis of quality, trimming and filtering of sequence                       ##
+## Author: Olga Andrea Hernandez Miranda, Miranda H                                       ##
+## Date: 23/01/2021                                                                       ##
+## The following script uses raw data from the transcriptome with which                   ##
+## a quality analysis is performed to know what trimming and filtering to do.             ##
+##                                                                                        ##
+##                                                                                        ##
+############################################################################################
+
+#################################---Quality analysis   ---##################################
+
+## The program FastQC v0.11.9 is installed in Ubuntu
+## The following command is executed in the working directory
+
+fastqc ETAPA1_G1_R1.fastaq.qz ETAPA1_G1_R2.fastq.gz 
+
+#################################---Trimming           ---###################################
+
+## The program Trimmomatic v0.39 is installed in ubuntu
+## The following command is executed 
+
+java -jar /home/cursornaseq/programas/Trimmomatic-0.39/trimmomatic-0.39.jar PE -phred33
+ETAPA1_G1_R1.fastq.gz ETAPA1_G1_R2.fastq.gz 
+ETAPA1_G1t_R1.fastq.gz ETAPA1_G1u_R1.fastq.gz 
+ETAPA1_G1t_R2.fastq.gz ETAPA1_G1u_R2.fastq.gz 
+ILLUMINACLIP:TruSeq3-PE.fa:2:30:10 SLIDINGWINDOW:4:15 MINLEN:30
+
+

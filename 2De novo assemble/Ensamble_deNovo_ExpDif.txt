@@ -1,0 +1,98 @@
+################################################################################################
+## RNA-seq: De novo assembly                                                                  ##
+## Author: Olga Andrea Hernandez Miranda, Miranda H                                           ##
+## Date: 23/01/2021                                                                           ##
+##                                                                                            ##
+## link: https://github-wiki-see.page/m/trinityrnaseq/trinityrnaseq/wiki/Transcriptome-       ##
+## Contig-Nx-and-ExN50-stats                                                                  ##
+## https://github-wiki-see.page/m/trinityrnaseq/BernWorkshop2018/wiki/Day_1_                  ##
+## Afternoon_Quantitation                                                                     ##
+## https://github.com/trinityrnaseq/trinityrnaseq/wiki/Transcriptome-Contig-Nx-and-ExN50-stats##                                                                   ##                      
+################################################################################################
+
+
+###################################---Trininity-Assembly ---###################################
+
+## the program Trinity versión v 2.4 is installed.
+## A txt file called list is created where the name of the files is specified
+cd /home/winter/rnaseq
+
+Trinity --seqType fq  --samples_file /home/winter/rnaseq/lista.txt --CPU 2 --max_memory 6G
+
+###################################---Trininity-statistics---##################################
+
+/home/winter/programas/trinityrnaseq-v2.11.0/util/TrinityStats.pl  trinity_out_dir/Trinity.fastaz
+
+#################################---BUSCO-quality evaluation---###############################
+
+## The program BUSCO v4 is installed to explore the integrity of ortholog sequences 
+## in the database Liliopsida odb10*
+
+#/home/winter/Curso2/busco_downloads/lineages/
+
+busco --list-datasets
+
+busco --in trinity_out_dir/Trinity.fasta -l liliopsida_odb10 --mode transcriptome 
+--out trinityBUSCO --cpu 2
+
+/home/winter/programas/busco/scripts/generate_plot.py -wd trinityBUSCO
+
+################################---Salmon-Trinity quantification---##############################
+
+## The program Salmon v0.8.0 is installed 
+
+/home/winter/programas/trinityrnaseq-v2.11.0/util/align_and_estimate_abundance.pl --seqType fq 
+--samples_file /home/winter/rnaseq/lista.txt  --transcripts trinity_out_dir/Trinity.fasta 
+--est_method salmon --trinity_mode --prep_reference
+
+
+######################################---Counting tables---######################################
+
+## search the files and create a list
+find ETAPA* -name "quant.sf" | tee quant_files.list
+
+## activate R
+conda activate r_env
+
+/home/winter/programas/trinityrnaseq-v2.11.0/util/abundance_estimates_to_matrix.pl 
+--est_method salmon --out_prefix Trinity --name_sample_by_basedir --quant_files quant_files.list 
+--gene_trans_map trinity_out_dir/Trinity.fasta.gene_trans_map
+
+head -n20 Trinity.isoform.counts.matrix | column -t
+
+######################################---ExN50 Statistics---#####################################
+
+/home/winter/programas/trinityrnaseq-v2.11.0/util/misc/contig_ExN50_statistic.pl \
+     Trinity.isoform.TMM.EXPR.matrix trinity_out_dir/Trinity.fasta | tee ExN50.stats
+
+cat Trinity.isoform.TMM.EXPR.matrix.E-inputs |  egrep -v ^\# | awk '$1 <= 90' | wc -l
+
+##############################---Differential expression - DESeq2---#################################
+
+/home/winter/programas/trinityrnaseq-v2.11.0/Analysis/DifferentialExpression/run_DE_analysis.pl 
+--matrix Trinity.isoform.counts.matrix --samples_file /home/winter/rnaseq/lista.txt --method DESeq2 
+--output DESeq2_trans
+
+conda deactivate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
