@@ -1,9 +1,9 @@
 #######
-# Repaso: Heatmap
-# Autor: Olga Andrea Hernandez Miranda, Miranda H 
-# Fecha: 17/08/2021
-# Nota: Realizar Heatmap con clusters de diferentes colores
-# Página: 
+# ISSUE: Heatmap
+# Author: Olga Andrea Hernandez Miranda, Miranda H 
+# Date: 17/08/2021
+# Note: Heatmap with colorful cluster
+# 
 #https://cran.r-project.org/web/packages/dendextend/vignettes/Cluster_Analysis.html
 #https://www.cienciadedatos.net/documentos/37_clustering_y_heatmaps
 #######
