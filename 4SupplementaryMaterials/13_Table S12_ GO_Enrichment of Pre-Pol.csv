@@ -1,0 +1,178 @@
+,Table S12 GO enrichment of biological process of Pre-Pol stage,,,
+TermID,Name,Value,LogSize,Frequency
+GO:0000413,protein peptidyl-prolyl isomerization,-8.331614083,1.707570176,0.267222489
+GO:0001101,response to acid chemical,-2.105683937,1.672097858,0.24584469
+GO:0002831,regulation of response to biotic stimulus,-3.661543506,1.681241237,0.25118914
+GO:0031347,regulation of defense response,31347,-3.413412695,1.977723605
+GO:0032101,regulation of response to external stimulus,32101,-3.449771647,1.698970004
+GO:0048584,positive regulation of response to stimulus,48584,-3.016373713,1.69019608
+GO:0080134,regulation of response to stress,80134,-2.935542011,2.117271296
+GO:0006089,lactate metabolic process,-40.26921772,0.698970004,0.021377799
+GO:0006349,regulation of gene expression by genomic imprinting,-54.32513886,1.681241237,0.154084817
+GO:0006325,chromatin organization,6325,-7.368556231,2.456366033
+GO:0006338,chromatin remodeling,6338,-8.525783736,2.357934847
+GO:0006346,DNA methylation-dependent heterochromatin formation,6346,-17.08460016,1.204119983
+GO:0031507,heterochromatin formation,31507,-11.76447155,1.591064607
+GO:0040029,epigenetic regulation of gene expression,40029,-14.44129143,1.770852012
+GO:0045814,"negative regulation of gene expression, epigenetic",45814,-27.92081875,1.681241237
+GO:0070828,heterochromatin organization,70828,-11.14327111,1.591064607
+GO:0140718,facultative heterochromatin formation,140718,-16.40120949,1.204119983
+GO:0006396,RNA processing,-1.847711656,2.904715545,4.286248731
+GO:0006397,mRNA processing,-1.91721463,2.571708832,1.988135321
+GO:0006457,protein folding,-2.249491605,2.494154594,1.662123884
+GO:0006468,protein phosphorylation,-1.728158393,3.175801633,8.005985784
+GO:0016310,phosphorylation,16310,-1.640164518,3.275311355
+GO:0006720,isoprenoid metabolic process,-1.835647144,2.274157849,0.999412111
+GO:0006721,terpenoid metabolic process,-2.522878745,2.089905111,0.652022874
+GO:0006807,nitrogen compound metabolic process,-1.348721986,3.950364854,47.66714767
+GO:0006835,dicarboxylic acid transport,-14.65169514,1.322219295,0.106888996
+GO:0046942,carboxylic acid transport,46942,-4.055024092,2.120573931
+GO:0006842,tricarboxylic acid transport,-300,0.301029996,0.00534445
+GO:0006950,response to stress,-5.372634143,3.167317335,7.85099674
+GO:0006970,response to osmotic stress,-6.185086819,1.924279286,0.443589332
+GO:0007017,microtubule-based process,-1.718966633,2.40654018,1.357490246
+GO:0008152,metabolic process,-1.982966661,4.093246531,66.23911068
+GO:0009266,response to temperature stimulus,-4.688246139,2.212187604,0.865800866
+GO:0009292,horizontal gene transfer,-27.59345982,2.950851459,4.768139953
+GO:0009294,DNA-mediated transformation,-27.59345982,2.950851459,4.768139953
+GO:0009414,response to water deprivation,-2.392544977,1.568201724,0.192400192
+GO:0009415,response to water,9415,-2.162411562,1.672097858
+GO:0009605,response to external stimulus,-1.590066877,2.655138435,2.410346855
+GO:0009607,response to biotic stimulus,-2.046723663,2.564666064,1.956068623
+GO:0009615,response to virus,-8.412289035,1.041392685,0.053444498
+GO:0009628,response to abiotic stimulus,-2.835647144,2.695481676,2.645502646
+GO:0009648,photoperiodism,-4.072629637,1.041392685,0.053444498
+GO:0009845,seed germination,-9.121478204,1.176091259,0.074822297
+GO:0009909,regulation of flower development,-4.296708622,1.72427587,0.277911389
+GO:0048580,regulation of post-embryonic development,48580,-1.779891912,1.939519253
+GO:0048831,regulation of shoot system development,48831,-3.954677021,1.72427587
+GO:2000026,regulation of multicellular organismal development,2000026,-1.524328812,1.939519253
+GO:0009987,cellular process,-2.302770657,4.140036411,73.77478489
+GO:0010048,vernalization response,-42.45717457,0.903089987,0.037411149
+GO:0010286,heat acclimation,-11.14327111,0.903089987,0.037411149
+GO:0009408,response to heat,9408,-7.102922997,1.959041392
+GO:0009409,response to cold,9409,-1.394694954,1.86332286
+GO:0034605,cellular response to heat,34605,-10.08618615,1.397940009
+GO:0010393,galacturonan metabolic process,-4.440093375,1.939519253,0.459622682
+GO:0000271,polysaccharide biosynthetic process,271,-2.369572125,2.285557309
+GO:0010412,mannan metabolic process,-249.5751184,1.770852012,0.308592913
+GO:0010383,cell wall polysaccharide metabolic process,10383,-3.413412695,2.201397124
+GO:0070592,cell wall polysaccharide biosynthetic process,70592,-6.68613278,1.812913357
+GO:0010605,negative regulation of macromolecule metabolic process,-12.49349497,2.678518379,2.5439581
+GO:0009890,negative regulation of biosynthetic process,9890,-2.27572413,2.324282455
+GO:0009892,negative regulation of metabolic process,9892,-8.974694135,2.682145076
+GO:0010558,negative regulation of macromolecule biosynthetic process,10558,-2.735182177,2.322219295
+GO:0010629,negative regulation of gene expression,10629,-6.809668302,2.416640507
+GO:0031324,negative regulation of cellular metabolic process,31324,-1.882728704,2.396199347
+GO:0031327,negative regulation of cellular biosynthetic process,31327,-2.399027104,2.322219295
+GO:0045892,negative regulation of DNA-templated transcription,45892,-3.437707136,2.086359831
+GO:0045934,negative regulation of nucleobase-containing compound metabolic process,45934,-2.806875402,2.164352856
+GO:0051172,negative regulation of nitrogen compound metabolic process,51172,-7.102922997,2.487138375
+GO:0051248,negative regulation of protein metabolic process,51248,-8.099632871,2.209515015
+GO:0051253,negative regulation of RNA metabolic process,51253,-3.239577517,2.11058971
+GO:1902679,negative regulation of RNA biosynthetic process,1902679,-3.437707136,2.086359831
+GO:0015711,organic anion transport,-3.424812155,2.374748346,1.26129015
+GO:0015742,alpha-ketoglutarate transport,-300,0.301029996,0.00534445
+GO:0015740,C4-dicarboxylate transport,15740,-18.22767829,1.278753601
+GO:0015743,malate transport,15743,-19.5421181,1.278753601
+GO:0015744,succinate transport,15744,-150.2343314,0.477121255
+GO:0015746,citrate transport,-300,0.301029996,0.00534445
+GO:0015849,organic acid transport,-4.003488328,2.120573931,0.700122922
+GO:0016051,carbohydrate biosynthetic process,-1.530177984,2.480006943,1.608679386
+GO:0016070,RNA metabolic process,-2.145086978,3.486713776,16.38608305
+GO:0090304,nucleic acid metabolic process,90304,-1.543633967,3.550105999
+GO:0016071,mRNA metabolic process,-1.320572103,2.683047038,2.570680348
+GO:0016255,attachment of GPI anchor to protein,-36.51712642,0.84509804,0.032066699
+GO:0018208,peptidyl-proline modification,-6.787812396,1.740362689,0.288600289
+GO:0019538,protein metabolic process,-2.219682688,3.643551369,23.51557907
+GO:0031399,regulation of protein modification process,-11.43889862,2.021189299,0.555822778
+GO:0031401,positive regulation of protein modification process,-56.93554201,1.397940009,0.128266795
+GO:0031056,regulation of histone modification,31056,-53.91364017,0.903089987
+GO:0031400,negative regulation of protein modification process,31400,-22.86012091,1.322219295
+GO:0032196,transposition,-187.493495,0.954242509,0.042755598
+GO:0032197,retrotransposition,-300,0.954242509,0.051218431
+GO:0032501,multicellular organismal process,-2.050609993,2.72916479,2.859280637
+GO:0033554,cellular response to stress,-3.853871964,2.767897616,3.126503127
+GO:0034976,response to endoplasmic reticulum stress,-6.308918508,1.86923172,0.390144835
+GO:0036211,protein modification process,-2.04383157,3.431041945,14.41398108
+GO:0043170,macromolecule metabolic process,-2.308918508,3.91503029,43.94206616
+GO:0043412,macromolecule modification,-2.473660723,3.504878459,17.08620598
+GO:0043933,protein-containing complex organization,-2.254925208,2.868644438,3.944203944
+GO:0044030,regulation of DNA methylation,-30.8096683,0.698970004,0.021377799
+GO:0044036,cell wall macromolecule metabolic process,-2.806875402,2.267171728,0.983378761
+GO:0044238,primary metabolic process,-2.403402904,4.024198232,56.50152317
+GO:0044282,small molecule catabolic process,-2.515700161,2.240549248,0.924589813
+GO:0044419,biological process involved in interspecies interaction between organisms,-2.051587034,2.552668216,1.902624125
+GO:0045489,pectin biosynthetic process,-11.93181414,1.431363764,0.138955695
+GO:0045488,pectin metabolic process,45488,-4.460923901,1.939519253
+GO:0048440,carpel development,-40.26921772,1.041392685,0.053444498
+GO:0009908,flower development,9908,-11.35556141,1.826074803
+GO:0048366,leaf development,48366,-3.823908741,1.792391689
+GO:0048437,floral organ development,48437,-9.525783736,1.505149978
+GO:0048507,meristem development,-3.779891912,1.662757832,0.240500241
+GO:0048518,positive regulation of biological process,-3.335358024,2.685741739,2.586713698
+GO:0048519,negative regulation of biological process,-6.015922966,2.786751422,3.265458821
+GO:0048575,"short-day photoperiodism, flowering",-187.493495,0.301029996,0.00534445
+GO:0048572,short-day photoperiodism,48572,-187.493495,0.301029996
+GO:0048573,"photoperiodism, flowering",48573,-6.136082623,0.903089987
+GO:0048583,regulation of response to stimulus,-1.906578315,2.404833717,1.352145797
+GO:0050792,regulation of viral process,-249.5751184,3.587935349,20.68836513
+GO:0050896,response to stimulus,-2.838631998,3.504606771,17.07551708
+GO:0051052,regulation of DNA metabolic process,-5.468521083,1.643452676,0.229811341
+GO:0051171,regulation of nitrogen compound metabolic process,-1.326058001,3.469380136,15.74474908
+GO:0051246,regulation of protein metabolic process,-5.946921557,2.749736316,2.998236332
+GO:0051247,positive regulation of protein metabolic process,-20.79588002,1.84509804,0.368767035
+GO:0009893,positive regulation of metabolic process,9893,-2.211831629,2.596597096
+GO:0010604,positive regulation of macromolecule metabolic process,10604,-2.552841969,2.591064607
+GO:0051173,positive regulation of nitrogen compound metabolic process,51173,-2.769551079,2.58546073
+GO:0051707,response to other organism,-2.067526235,2.530199698,1.806424029
+GO:0043207,response to external biotic stimulus,43207,-2.049635146,2.530199698
+GO:0051716,cellular response to stimulus,-2.05207638,3.242292905,9.331409331
+GO:0052325,cell wall pectin biosynthetic process,-38.29929628,0.477121255,0.0106889
+GO:0052546,cell wall pectin metabolic process,-23.53017798,0.602059991,0.016033349
+GO:0061077,chaperone-mediated protein folding,-11.93181414,1.69019608,0.25653359
+GO:0062197,cellular response to chemical stress,-7.35261703,1.892094603,0.411522634
+GO:0070085,glycosylation,-3.283996656,2.267171728,0.983378761
+GO:0070370,cellular heat acclimation,-63.21824463,0.903089987,0.035473853
+GO:0071470,cellular response to osmotic stress,-15.47495519,1,0.048100048
+GO:0071214,cellular response to abiotic stimulus,71214,-3.273272791,1.612783857
+GO:0071704,organic substance metabolic process,-2.312471039,4.059336177,61.26342793
+GO:0071824,protein-DNA complex organization,-6.555955204,2.51054501,1.726257282
+GO:0090241,negative regulation of histone H4 acetylation,-300,0.301029996,0.00534445
+GO:0031060,regulation of histone methylation,31060,-130.3798639,0.698970004
+GO:0031062,positive regulation of histone methylation,31062,-271.7351822,0.698970004
+GO:0035065,regulation of histone acetylation,35065,-54.32513886,0.602059991
+GO:0035067,negative regulation of histone acetylation,35067,-249.5751184,0.301029996
+GO:0051569,regulation of histone H3-K4 methylation,51569,-107.634512,0.301029996
+GO:0051570,regulation of histone H3-K9 methylation,51570,-125.3872161,0.477121255
+GO:0051571,positive regulation of histone H3-K4 methylation,51571,-187.493495,0.301029996
+GO:0051574,positive regulation of histone H3-K9 methylation,51574,-249.5751184,0.301029996
+GO:0061085,regulation of histone H3-K27 methylation,61085,-75.66154351,0.477121255
+GO:0061087,positive regulation of histone H3-K27 methylation,61087,-125.3872161,0.301029996
+GO:0090239,regulation of histone H4 acetylation,90239,-300,0.301029996
+GO:1901984,negative regulation of protein acetylation,1901984,-249.5751184,0.301029996
+GO:2000756,regulation of peptidyl-lysine acetylation,2000756,-54.32513886,0.602059991
+GO:2000757,negative regulation of peptidyl-lysine acetylation,2000757,-249.5751184,0.301029996
+GO:0090567,reproductive shoot system development,-9.987162775,1.851258349,0.374111485
+GO:0009791,post-embryonic development,9791,-3.109578981,2.439332694
+GO:0022414,reproductive process,22414,-1.896196279,2.514547753
+GO:0048367,shoot system development,48367,-4.252588192,2.301029996
+GO:0048608,reproductive structure development,48608,-4.252588192,2.340444115
+GO:0048731,system development,48731,-4.110698297,2.613841822
+GO:0048827,phyllome development,48827,-7.787812396,1.929418926
+GO:0099402,plant organ development,99402,-2.793174124,2.320146286
+GO:0097502,mannosylation,-107.634512,0.301029996,0.00534445
+GO:0104004,cellular response to environmental stimulus,-3.273272791,1.612783857,0.213777992
+GO:1900424,regulation of defense response to bacterium,-13.46470588,0.698970004,0.021377799
+GO:0002833,positive regulation of response to biotic stimulus,2833,-7.477555766,1.176091259
+GO:0031349,positive regulation of defense response,31349,-6.68613278,1.204119983
+GO:0032103,positive regulation of response to external stimulus,32103,-7.232102384,1.230448921
+GO:1900426,positive regulation of defense response to bacterium,-25,0.602059991,0.016033349
+GO:1901615,organic hydroxy compound metabolic process,-1.596879479,2.292256071,1.042167709
+GO:1901616,organic hydroxy compound catabolic process,-19.5421181,1,0.048100048
+GO:1901983,regulation of protein acetylation,-54.32513886,0.602059991,0.016033349
+GO:1902074,response to salt,-1.974694135,1.806179974,0.336700337
+GO:1903457,lactate catabolic process,-300,0.477121255,0.298292643
+GO:0016054,organic acid catabolic process,16054,-3.488116639,2.117271296
+GO:0046395,carboxylic acid catabolic process,46395,-3.488116639,2.117271296
+GO:0072329,monocarboxylic acid catabolic process,72329,-9.318758763,1.531478917

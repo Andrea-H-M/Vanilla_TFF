@@ -1,0 +1,168 @@
+,Table S14 GO enrichment of biological process of Post-Pol stage,,,
+TermID,Name,Value,LogSize,Frequency
+GO:0000038,very long-chain fatty acid metabolic process,-12.51570016,0.477121255,0.0106889
+GO:0000302,response to reactive oxygen species,-3.610833916,1.880813592,0.400833734
+GO:0000413,protein peptidyl-prolyl isomerization,-5.774690718,1.707570176,0.267222489
+GO:0001763,morphogenesis of a branching structure,-22.81247928,0.77815125,0.026722249
+GO:0006259,DNA metabolic process,-1.721246399,2.701567985,2.682913794
+GO:0006260,DNA replication,-3.107348966,2.301029996,1.063545508
+GO:0006265,DNA topological change,-14.08039898,1.146128036,0.069477847
+GO:0071103,DNA conformation change,71103,-7.899629455,1.748188027
+GO:0006284,base-excision repair,-8.117475462,1.462397998,0.149644594
+GO:0006289,nucleotide-excision repair,-6.73754891,1.568201724,0.192400192
+GO:0006396,RNA processing,-2.519993057,2.904715545,4.286248731
+GO:0006457,protein folding,-1.54668166,2.494154594,1.662123884
+GO:0006468,protein phosphorylation,-1.823908741,3.175801633,8.005985784
+GO:0016310,phosphorylation,16310,-1.723538196,3.275311355
+GO:0006508,proteolysis,-2.087777943,3.030194785,5.723905724
+GO:0006511,ubiquitin-dependent protein catabolic process,-5.675717545,2.603144373,2.137779916
+GO:0010498,proteasomal protein catabolic process,10498,-2.081445469,2.214843848
+GO:0019941,modification-dependent protein catabolic process,19941,-5.496209317,2.611723308
+GO:0030163,protein catabolic process,30163,-1.554395797,2.689308859
+GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process,43161,-2.199970641,2.181843588
+GO:0043632,modification-dependent macromolecule catabolic process,43632,-5.403402904,2.618048097
+GO:0051603,proteolysis involved in protein catabolic process,51603,-4.841637508,2.678518379
+GO:0006576,biogenic amine metabolic process,-2.108462542,1.806179974,0.336700337
+GO:0006633,fatty acid biosynthetic process,-2.400116928,2.120573931,0.700122922
+GO:0006631,fatty acid metabolic process,6631,-1.392544977,2.276461804
+GO:0072330,monocarboxylic acid biosynthetic process,72330,-1.696803943,2.201397124
+GO:0006807,nitrogen compound metabolic process,-2.609064893,3.950364854,47.66714767
+GO:0007059,chromosome segregation,-10.84466396,1.86332286,0.384800385
+GO:0007154,cell communication,-1.519993057,2.994317153,5.269627492
+GO:0007267,cell-cell signaling,-6.518557371,1.255272505,0.090855646
+GO:0007389,pattern specification process,-1.756961951,1.51851394,0.171022393
+GO:0007623,circadian rhythm,-4.209011525,1.342422681,0.112233446
+GO:0008150,biological_process,-3.473660723,4.272120209,100
+GO:0008152,metabolic process,-2.525783736,4.093246531,66.23911068
+GO:0008299,isoprenoid biosynthetic process,-1.692503962,2.190331698,0.823045267
+GO:0008380,RNA splicing,-10.95078198,2.437750563,1.459034792
+GO:0008610,lipid biosynthetic process,-1.321481621,2.751279104,3.008925231
+GO:0009057,macromolecule catabolic process,-3.086716098,2.883093359,4.077815189
+GO:0009292,horizontal gene transfer,-18.86966623,2.950851459,4.768139953
+GO:0009294,DNA-mediated transformation,-18.86966623,2.950851459,4.768139953
+GO:0009308,amine metabolic process,-5.320572103,2.021189299,0.555822778
+GO:0009314,response to radiation,-2.649751982,2.276461804,1.00475656
+GO:0009555,pollen development,-2.177831921,1.643452676,0.229811341
+GO:0009631,cold acclimation,-9.276544328,0.954242509,0.042755598
+GO:0009644,response to high light intensity,-8.468521083,1.230448921,0.085511197
+GO:0009416,response to light stimulus,9416,-2.832682665,2.264817823
+GO:0009642,response to light intensity,9642,-1.557520231,1.447158031
+GO:0009664,plant-type cell wall organization,-3.063486258,1.755874856,0.299289188
+GO:0009704,de-etiolation,-30.59006688,0.602059991,0.016033349
+GO:0009733,response to auxin,-1.36552273,2.413299764,1.378868046
+GO:0009736,cytokinin-activated signaling pathway,-6.590066877,1.785329835,0.320666987
+GO:0009812,flavonoid metabolic process,-3.512861625,1.462397998,0.149644594
+GO:0009987,cellular process,-2.991399828,4.140036411,73.77478489
+GO:0010025,wax biosynthetic process,-12.24488773,0.477121255,0.0106889
+GO:0010166,wax metabolic process,10166,-11.73754891,0.477121255
+GO:1901570,fatty acid derivative biosynthetic process,1901570,-11.05551733,0.602059991
+GO:0010054,trichoblast differentiation,-64.00217692,1.041392685,0.053444498
+GO:0010053,root epidermal cell differentiation,10053,-8.231361899,1.041392685
+GO:0010077,maintenance of inflorescence meristem identity,-57,1.113943352,0.064133397
+GO:0010074,maintenance of meristem identity,10074,-6.001304842,1.113943352
+GO:0010076,maintenance of floral meristem identity,10076,-57,1.113943352
+GO:0010087,phloem or xylem histogenesis,10087,-3.437707136,1.176091259
+GO:0019827,stem cell population maintenance,19827,-5.187755303,1.113943352
+GO:0010089,xylem development,-10.84466396,0.903089987,0.037411149
+GO:0010109,regulation of photosynthesis,-8.721246399,1.146128036,0.069477847
+GO:0016043,cellular component organization,-1.41453927,3.288249226,10.37357704
+GO:0016071,mRNA metabolic process,-6.334419009,2.683047038,2.570680348
+GO:0018208,peptidyl-proline modification,-4.714442691,1.740362689,0.288600289
+GO:0019222,regulation of metabolic process,-2.447331784,3.510946949,17.32670622
+GO:0019538,protein metabolic process,-2.037157319,3.643551369,23.51557907
+GO:0019722,calcium-mediated signaling,-6.248720896,1.431363764,0.138955695
+GO:0019760,glucosinolate metabolic process,-2.237321436,3.024485668,4.20329103
+GO:0016143,S-glycoside metabolic process,16143,-2.237321436,1.255272505
+GO:0019757,glycosinolate metabolic process,19757,-2.237321436,1.342422681
+GO:0019932,second-messenger-mediated signaling,-5.943095149,1.447158031,0.144300144
+GO:0022607,cellular component assembly,-1.477555766,2.762678564,3.089091978
+GO:0023052,signaling,-5.060480747,2.979548375,5.093260649
+GO:0032091,negative regulation of protein binding,-300,2.037426498,0.264073082
+GO:0043393,regulation of protein binding,43393,-252.7099654,2.356025857
+GO:0044092,negative regulation of molecular function,44092,-3.314258261,2.037426498
+GO:0051098,regulation of binding,51098,-85,2.041392685
+GO:0051100,negative regulation of binding,51100,-252.7099654,2.025305865
+GO:0032501,multicellular organismal process,-2.197910742,2.72916479,2.859280637
+GO:0032502,developmental process,-1.728158393,2.881954971,4.067126289
+GO:0036211,protein modification process,-1.625251654,3.431041945,14.41398108
+GO:0042440,pigment metabolic process,-1.408935393,1.959041392,0.481000481
+GO:0042549,photosystem II stabilization,-39.74232143,0.698970004,0.021377799
+GO:0042548,"regulation of photosynthesis, light reaction",42548,-14.4436975,0.954242509
+GO:0042752,regulation of circadian rhythm,-7.139661993,1.204119983,0.080166747
+GO:0042761,very long-chain fatty acid biosynthetic process,-21.04769199,0.477121255,0.0106889
+GO:0043067,regulation of programmed cell death,-22.39685563,1,0.048100048
+GO:0043068,positive regulation of programmed cell death,-17.65757732,0.301029996,0.00534445
+GO:0043170,macromolecule metabolic process,-2.078833949,3.91503029,43.94206616
+GO:0043467,regulation of generation of precursor metabolites and energy,-13.40782324,0.954242509,0.042755598
+GO:0043484,regulation of RNA splicing,-12.79860288,1.278753601,0.096200096
+GO:0044238,primary metabolic process,-2.806875402,4.024198232,56.50152317
+GO:0045292,"mRNA cis splicing, via spliceosome",-18.86966623,1.301029996,0.101544546
+GO:0000375,"RNA splicing, via transesterification reactions",375,-14.14327111,2.330413773
+GO:0000377,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",377,-14.14327111,2.330413773
+GO:0000398,"mRNA splicing, via spliceosome",398,-15.66958623,2.281033367
+GO:0006397,mRNA processing,6397,-9.412289035,2.571708832
+GO:0045892,negative regulation of DNA-templated transcription,-2.391473966,2.086359831,0.646678424
+GO:0009890,negative regulation of biosynthetic process,9890,-1.565431096,2.324282455
+GO:0010558,negative regulation of macromolecule biosynthetic process,10558,-1.896196279,2.322219295
+GO:0031327,negative regulation of cellular biosynthetic process,31327,-1.653647026,2.322219295
+GO:0045934,negative regulation of nucleobase-containing compound metabolic process,45934,-1.946921557,2.164352856
+GO:0051172,negative regulation of nitrogen compound metabolic process,51172,-1.427128398,2.487138375
+GO:0051253,negative regulation of RNA metabolic process,51253,-2.252588192,2.11058971
+GO:1902679,negative regulation of RNA biosynthetic process,1902679,-2.391473966,2.086359831
+GO:0048229,gametophyte development,-1.616184634,1.819543936,0.347389236
+GO:0048457,floral whorl morphogenesis,-300,1.204119983,0.08302334
+GO:0003006,developmental process involved in reproduction,3006,-1.515700161,2.385606274
+GO:0007275,multicellular organism development,7275,-1.555955204,2.69019608
+GO:0009908,flower development,9908,-2.252588192,1.826074803
+GO:0010154,fruit development,10154,-34.71219827,2.025305865
+GO:0010223,secondary shoot formation,10223,-27.45469288,0.602059991
+GO:0010228,vegetative to reproductive phase transition of meristem,10228,-2.094743951,1.380211242
+GO:0010346,shoot axis formation,10346,-27.45469288,0.602059991
+GO:0048367,shoot system development,48367,-2.832682665,2.301029996
+GO:0048608,reproductive structure development,48608,-6.052566278,2.340444115
+GO:0048731,system development,48731,-2.735182177,2.613841822
+GO:0048856,anatomical structure development,48856,-1.958607315,2.812244697
+GO:0090567,reproductive shoot system development,90567,-1.991399828,1.851258349
+GO:1905393,plant organ formation,1905393,-4.787812396,1.113943352
+GO:0048511,rhythmic process,-4.209011525,1.544068044,0.181711293
+GO:0048646,anatomical structure formation involved in morphogenesis,-2.207608311,1.447158031,0.144300144
+GO:0050789,regulation of biological process,-3.850780887,3.644635504,23.57436802
+GO:0050793,regulation of developmental process,-2.415668776,2.294466226,1.047512159
+GO:0050794,regulation of cellular process,-4.616184634,3.587935349,20.68836513
+GO:0051093,negative regulation of developmental process,-2.93930216,1.431363764,0.138955695
+GO:0051241,negative regulation of multicellular organismal process,-3.571865206,1.380211242,0.122922345
+GO:0048581,negative regulation of post-embryonic development,48581,-3.946921557,1.146128036
+GO:0051252,regulation of RNA metabolic process,-3.555955204,3.379486814,12.79995724
+GO:0006355,regulation of DNA-templated transcription,6355,-2.735182177,3.364363355
+GO:0009889,regulation of biosynthetic process,9889,-2.237321436,3.42894429
+GO:0010468,regulation of gene expression,10468,-2.457174573,3.468051791
+GO:0010556,regulation of macromolecule biosynthetic process,10556,-2.540607512,3.426511261
+GO:0019219,regulation of nucleobase-containing compound metabolic process,19219,-3.175223538,3.386677284
+GO:0031323,regulation of cellular metabolic process,31323,-3.575118363,3.458486764
+GO:0031326,regulation of cellular biosynthetic process,31326,-2.36552273,3.427486109
+GO:0051171,regulation of nitrogen compound metabolic process,51171,-2.609064893,3.469380136
+GO:0060255,regulation of macromolecule metabolic process,60255,-2.11577123,3.504062883
+GO:0080090,regulation of primary metabolic process,80090,-2.508638306,3.472902652
+GO:2001141,regulation of RNA biosynthetic process,2001141,-2.728158393,3.364363355
+GO:0051276,chromosome organization,-2.108462542,2.222716471,0.887178665
+GO:0062197,cellular response to chemical stress,-5.102372909,1.892094603,0.411522634
+GO:0065007,biological regulation,-3.517126416,3.6658623,24.75549142
+GO:0065009,regulation of molecular function,-1.408935393,2.356025857,1.207845652
+GO:0071452,cellular response to singlet oxygen,-168.8860566,1,0.048100048
+GO:0000304,response to singlet oxygen,304,-39.74232143,1
+GO:0034599,cellular response to oxidative stress,34599,-8.468521083,1.84509804
+GO:0034614,cellular response to reactive oxygen species,34614,-32.44977165,1.556302501
+GO:0071704,organic substance metabolic process,-2.465973894,4.059336177,61.26342793
+GO:0071840,cellular component organization or biogenesis,-1.809668302,3.349083169,11.93415638
+GO:0080006,internode patterning,-252.7099654,0.77815125,0.037484661
+GO:0003002,regionalization,3002,-2.408935393,1.414973348
+GO:0010051,xylem and phloem pattern formation,10051,-5.665546249,0.954242509
+GO:0080183,response to photooxidative stress,-39.74232143,0.84509804,0.032066699
+GO:0090304,nucleic acid metabolic process,-1.341035157,3.550105999,18.96210785
+GO:0090627,plant epidermal cell differentiation,-4.714442691,1.491361694,0.160333494
+GO:0090698,post-embryonic plant morphogenesis,-5.512861625,1.568201724,0.192400192
+GO:0098727,maintenance of cell number,-5.187755303,1.113943352,0.064133397
+GO:1900055,regulation of leaf senescence,-10.2644011,0.602059991,0.016033349
+GO:1901564,organonitrogen compound metabolic process,-2.003488328,3.733999287,28.96157341
+GO:1901568,fatty acid derivative metabolic process,-8.721246399,0.84509804,0.032066699
+GO:1901657,glycosyl compound metabolic process,-1.539102157,1.414973348,0.133611245

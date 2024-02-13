@@ -1,0 +1,154 @@
+,Table S15 GO enrichment of biological process of Fer stage,,,
+TermID,Name,Value,Value,Frequency
+GO:0001101,response to acid chemical,-8.694648631,1.672097858,0.24584469
+GO:0006081,cellular aldehyde metabolic process,-6.583359493,1.62324929,0.219122441
+GO:0006102,isocitrate metabolic process,-28.1739252,1.041392685,0.053444498
+GO:0006766,vitamin metabolic process,-3.634512015,1.919078092,0.438244883
+GO:0006793,phosphorus metabolic process,-1.785156152,3.417471693,13.97039175
+GO:0006796,phosphate-containing compound metabolic process,-1.829738285,3.410270964,13.74058041
+GO:0006950,response to stress,-2.438898616,3.167317335,7.85099674
+GO:0007154,cell communication,-1.640164518,2.994317153,5.269627492
+GO:0007584,response to nutrient,-37.28903688,0.477121255,0.0106889
+GO:0009267,cellular response to starvation,9267,-2.872895202,1.361727836
+GO:0016036,cellular response to phosphate starvation,16036,-4.91721463,1.041392685
+GO:0031667,response to nutrient levels,31667,-6.238072162,1.568201724
+GO:0031668,cellular response to extracellular stimulus,31668,-2.170696227,1.477121255
+GO:0031669,cellular response to nutrient levels,31669,-2.598599459,1.397940009
+GO:0042594,response to starvation,42594,-2.40560745,1.431363764
+GO:0009112,nucleobase metabolic process,-7.500312917,1.612783857,0.213777992
+GO:0009123,nucleoside monophosphate metabolic process,-6.148741651,1.982271233,0.50772273
+GO:0009165,nucleotide biosynthetic process,9165,-1.747146969,2.350248018
+GO:0009259,ribonucleotide metabolic process,9259,-1.946921557,2.320146286
+GO:0009260,ribonucleotide biosynthetic process,9260,-2.48148606,2.201397124
+GO:0019693,ribose phosphate metabolic process,19693,-1.899629455,2.328379603
+GO:0046390,ribose phosphate biosynthetic process,46390,-2.438898616,2.209515015
+GO:0090407,organophosphate biosynthetic process,90407,-2.866461092,2.683047038
+GO:1901293,nucleoside phosphate biosynthetic process,1901293,-1.725842151,2.350248018
+GO:0009231,riboflavin biosynthetic process,-19.66554625,1.176091259,0.074822297
+GO:0006767,water-soluble vitamin metabolic process,6767,-4.552841969,1.86332286
+GO:0006771,riboflavin metabolic process,6771,-19.03292027,1.176091259
+GO:0009110,vitamin biosynthetic process,9110,-4.088309841,1.86923172
+GO:0042364,water-soluble vitamin biosynthetic process,42364,-5.105683937,1.806179974
+GO:0042727,flavin-containing compound biosynthetic process,42727,-18.44129143,1.230448921
+GO:0009266,response to temperature stimulus,-1.522878745,2.212187604,0.865800866
+GO:0009561,megagametogenesis,-16.41228903,1.176091259,0.074822297
+GO:0009605,response to external stimulus,-3.030118356,2.655138435,2.410346855
+GO:0009606,tropism,-3.14327111,1.681241237,0.25118914
+GO:0009607,response to biotic stimulus,-1.326058001,2.564666064,1.956068623
+GO:0009608,response to symbiont,-46.39040559,0.301029996,0.00534445
+GO:0009610,response to symbiotic fungus,-55.4828041,0.301029996,0.00534445
+GO:0009611,response to wounding,-2.353596274,1.851258349,0.374111485
+GO:0009620,response to fungus,-1.68613278,1.875061263,0.395489284
+GO:0043207,response to external biotic stimulus,43207,-1.327902142,2.530199698
+GO:0051707,response to other organism,51707,-1.341988603,2.530199698
+GO:0009627,systemic acquired resistance,-5.576754126,1.255272505,0.090855646
+GO:0009628,response to abiotic stimulus,-2.684029655,2.695481676,2.645502646
+GO:0009657,plastid organization,-2.184422252,1.954242509,0.475656031
+GO:0009658,chloroplast organization,-2.517126416,1.857332496,0.379455935
+GO:0009719,response to endogenous stimulus,-2.995678626,2.800717078,3.372347817
+GO:0009832,plant-type cell wall biogenesis,-9.187755303,1.77815125,0.315322538
+GO:0009834,plant-type secondary cell wall biogenesis,9834,-7.010105436,1.361727836
+GO:0009845,seed germination,-6.790484985,1.176091259,0.074822297
+GO:0009867,jasmonic acid mediated signaling pathway,-3.991399828,1.447158031,0.144300144
+GO:0009753,response to jasmonic acid,9753,-4.031050319,1.556302501
+GO:0009991,response to extracellular stimulus,-5.359518563,1.633468456,0.224466891
+GO:0010016,shoot system morphogenesis,-6.790484985,1.579783597,0.197744642
+GO:0010022,meristem determinacy,-19.66554625,0.477121255,0.0106889
+GO:0010035,response to inorganic substance,-4.995678626,2.209515015,0.860456416
+GO:0010214,seed coat development,-15.16941133,0.84509804,0.032066699
+GO:0010266,response to vitamin B1,-273.0877779,0.301029996,0.00534445
+GO:0009414,response to water deprivation,9414,-6.341988603,1.568201724
+GO:0009415,response to water,9415,-8.928117993,1.672097858
+GO:0009737,response to abscisic acid,9737,-1.974694135,2.053078443
+GO:0010243,response to organonitrogen compound,10243,-3.387216143,1.698970004
+GO:0033273,response to vitamin,33273,-91.80410035,0.301029996
+GO:0071396,cellular response to lipid,71396,-1.457174573,2.1430148
+GO:0097305,response to alcohol,97305,-3.677780705,2.06069784
+GO:1901701,cellular response to oxygen-containing compound,1901701,-5.962573502,2.301029996
+GO:0010274,hydrotropism,-20.34103516,1.255272505,0.090855646
+GO:0010344,seed oilbody biogenesis,-50.52432881,0.698970004,0.021377799
+GO:0010582,floral meristem determinacy,-23.60730305,0.477121255,0.0106889
+GO:0010014,meristem initiation,10014,-10.66958623,1
+GO:0048507,meristem development,48507,-2.826813732,1.662757832
+GO:0016024,CDP-diacylglycerol biosynthetic process,-29.61439373,1.113943352,0.064133397
+GO:0006650,glycerophospholipid metabolic process,6650,-1.823908741,2.29666519
+GO:0008654,phospholipid biosynthetic process,8654,-2.218244625,2.320146286
+GO:0045017,glycerolipid biosynthetic process,45017,-2.48148606,2.201397124
+GO:0046474,glycerophospholipid biosynthetic process,46474,-3.245651664,2.181843588
+GO:0019637,organophosphate metabolic process,-1.673664139,2.84260924,3.714392603
+GO:0019915,lipid storage,-16.87614836,1,0.048100048
+GO:0032501,multicellular organismal process,-2.444905551,2.72916479,2.859280637
+GO:0033365,protein localization to organelle,-1.521433504,2.36361198,1.229223451
+GO:0033993,response to lipid,-2.785156152,2.322219295,1.116990006
+GO:0035670,plant-type ovary development,-300,0.903089987,0.037411149
+GO:0003006,developmental process involved in reproduction,3006,-1.688246139,2.385606274
+GO:0009908,flower development,9908,-2.4225082,1.826074803
+GO:0022414,reproductive process,22414,-2.253365801,2.514547753
+GO:0048316,seed development,48316,-1.688246139,1.995635195
+GO:0048608,reproductive structure development,48608,-3.075204004,2.340444115
+GO:0090567,reproductive shoot system development,90567,-2.144480844,1.851258349
+GO:0040008,regulation of growth,-1.621602099,1.892094603,0.411522634
+GO:0042221,response to chemical,-1.673664139,3.103803721,6.782106782
+GO:0042546,cell wall biogenesis,-4.982966661,2.068185862,0.619956176
+GO:0071669,plant-type cell wall organization or biogenesis,71669,-3.764471553,2.086359831
+GO:0042726,flavin-containing compound metabolic process,-16.87614836,1.255272505,0.090855646
+GO:0043903,regulation of biological process involved in symbiotic interaction,-19.03292027,0.301029996,0.00534445
+GO:0044085,cellular component biogenesis,-5.931814138,2.980911938,5.109293998
+GO:0044087,regulation of cellular component biogenesis,-3.71219827,1.73239376,0.283255839
+GO:0044089,positive regulation of cellular component biogenesis,-20.34103516,0.602059991,0.016033349
+GO:0044205,'de novo' UMP biosynthetic process,-78.838632,1.041392685,0.053444498
+GO:0006206,pyrimidine nucleobase metabolic process,6206,-14.79588002,1.342422681
+GO:0006207,'de novo' pyrimidine nucleobase biosynthetic process,6207,-25.68402965,1.113943352
+GO:0006220,pyrimidine nucleotide metabolic process,6220,-6.148741651,1.69019608
+GO:0006221,pyrimidine nucleotide biosynthetic process,6221,-6.148741651,1.672097858
+GO:0006222,UMP biosynthetic process,6222,-39.88941029,1.204119983
+GO:0009124,nucleoside monophosphate biosynthetic process,9124,-6.2069084,1.832508913
+GO:0009129,pyrimidine nucleoside monophosphate metabolic process,9129,-16.87614836,1.301029996
+GO:0009130,pyrimidine nucleoside monophosphate biosynthetic process,9130,-17.36653154,1.301029996
+GO:0009156,ribonucleoside monophosphate biosynthetic process,9156,-7.679853714,1.785329835
+GO:0009161,ribonucleoside monophosphate metabolic process,9161,-7.588380294,1.799340549
+GO:0009173,pyrimidine ribonucleoside monophosphate metabolic process,9173,-37.28903688,1.204119983
+GO:0009174,pyrimidine ribonucleoside monophosphate biosynthetic process,9174,-39.88941029,1.204119983
+GO:0009218,pyrimidine ribonucleotide metabolic process,9218,-9.675717545,1.544068044
+GO:0009220,pyrimidine ribonucleotide biosynthetic process,9220,-9.675717545,1.544068044
+GO:0019856,pyrimidine nucleobase biosynthetic process,19856,-17.36653154,1.255272505
+GO:0046049,UMP metabolic process,46049,-39.88941029,1.204119983
+GO:0046112,nucleobase biosynthetic process,46112,-9.982966661,1.462397998
+GO:0072528,pyrimidine-containing compound biosynthetic process,72528,-4.522878745,1.792391689
+GO:0044281,small molecule metabolic process,-1.744727495,3.200029267,8.465608466
+GO:0044282,small molecule catabolic process,-1.872895202,2.240549248,0.924589813
+GO:0044419,biological process involved in interspecies interaction between organisms,-1.329754147,2.552668216,1.902624125
+GO:0046294,formaldehyde catabolic process,-50.52432881,0.903089987,0.037411149
+GO:0046185,aldehyde catabolic process,46185,-17.88605665,1.079181246
+GO:0046292,formaldehyde metabolic process,46292,-46.39040559,0.954242509
+GO:0110095,cellular detoxification of aldehyde,110095,-42.89279003,1.041392685
+GO:0046341,CDP-diacylglycerol metabolic process,-29.61439373,1.113943352,0.064133397
+GO:0046486,glycerolipid metabolic process,-1.528708289,2.315970345,1.100956657
+GO:0050826,response to freezing,-19.03292027,0.602059991,0.016033349
+GO:0050896,response to stimulus,-1.548213564,3.504606771,17.07551708
+GO:0051235,maintenance of location,-6.266802735,1.69019608,0.25653359
+GO:0051301,cell division,-1.809668302,2.283301229,1.02078991
+GO:0051716,cellular response to stimulus,-2.447331784,3.242292905,9.331409331
+GO:0070542,response to fatty acid,-3.804100348,1.556302501,0.187055743
+GO:0071496,cellular response to external stimulus,-2.131943638,1.477121255,0.154989044
+GO:0071554,cell wall organization or biogenesis,-1.987162775,2.67669361,2.5332692
+GO:0072350,tricarboxylic acid metabolic process,-13.48017201,1.397940009,0.128266795
+GO:0072527,pyrimidine-containing compound metabolic process,-3.732828272,1.857332496,0.379455935
+GO:0140547,acquisition of seed longevity,-55.4828041,0.477121255,0.0106889
+GO:1901348,positive regulation of secondary cell wall biogenesis,-61.54060751,0.301029996,0.008578955
+GO:1901698,response to nitrogen compound,-2.381951903,1.832508913,0.358078136
+GO:1901700,response to oxygen-containing compound,-3.229147988,2.57863921,2.02020202
+GO:0010033,response to organic substance,10033,-2.106793247,2.903089987
+GO:0070887,cellular response to chemical stimulus,70887,-3.201349355,2.905256049
+GO:1902074,response to salt,-8.155522824,1.806179974,0.336700337
+GO:1902652,secondary alcohol metabolic process,-20.34103516,1.079181246,0.058788948
+GO:0006066,alcohol metabolic process,6066,-2.40560745,2.064457989
+GO:1903338,regulation of cell wall organization or biogenesis,-7.966576245,2.155336037,0.468847283
+GO:1903340,positive regulation of cell wall organization or biogenesis,-61.54060751,2.155336037,0.015553639
+GO:1990748,cellular detoxification,-10.66958623,2.426511261,1.421623644
+GO:0009725,response to hormone,9725,-3.055024092,2.799340549
+GO:0032870,cellular response to hormone stimulus,32870,-7.289882635,2.638489257
+GO:0071310,cellular response to organic substance,71310,-2.400116928,2.679427897
+GO:0071495,cellular response to endogenous stimulus,71495,-6.37675071,2.640481437
+GO:0098754,detoxification,98754,-5.145086978,2.496929648
+GO:2000652,regulation of secondary cell wall biogenesis,-9.385102784,1.431363764,0.018110639

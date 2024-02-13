@@ -1,0 +1,199 @@
+,Table S13 GO enrichment of biological process of Pol stage,,,
+TermID,Name,Value,LogSize,Frequency
+GO:0001101,response to acid chemical,-1.348721986,1.672097858,0.24584469
+GO:0002376,immune system process,-6.256490235,1.342422681,0.112233446
+GO:0005996,monosaccharide metabolic process,-6.882728704,2.311753861,1.090267757
+GO:0006094,gluconeogenesis,-42.89279003,1.361727836,0.117577895
+GO:0006006,glucose metabolic process,6006,-17.90657831,1.832508913
+GO:0019318,hexose metabolic process,19318,-9.121478204,2.184691431
+GO:0019319,hexose biosynthetic process,19319,-38.79317412,1.361727836
+GO:0006506,GPI anchor biosynthetic process,-20.03011836,1.568201724,0.192400192
+GO:0006497,protein lipidation,6497,-13.31966449,1.792391689
+GO:0006505,GPI anchor metabolic process,6505,-19.79588002,1.579783597
+GO:0006650,glycerophospholipid metabolic process,6650,-4.812479279,2.29666519
+GO:0006661,phosphatidylinositol biosynthetic process,6661,-14.07883395,2.025305865
+GO:0006664,glycolipid metabolic process,6664,-11.25963731,1.77815125
+GO:0008654,phospholipid biosynthetic process,8654,-5.829738285,2.320146286
+GO:0009247,glycolipid biosynthetic process,9247,-12.64206515,1.73239376
+GO:0045017,glycerolipid biosynthetic process,45017,-6.518557371,2.201397124
+GO:0046467,membrane lipid biosynthetic process,46467,-8.93930216,1.913813852
+GO:0046474,glycerophospholipid biosynthetic process,46474,-8.557520231,2.181843588
+GO:0046488,phosphatidylinositol metabolic process,46488,-6.987162775,2.146128036
+GO:0006643,membrane lipid metabolic process,-7.407823243,2.017033339,0.550478328
+GO:0006811,monoatomic ion transport,-1.913640169,2.754348336,3.03030303
+GO:0006886,intracellular protein transport,-2.105683937,2.64738297,2.367591256
+GO:0008104,protein localization,8104,-1.448550002,2.945468585
+GO:0015031,protein transport,15031,-1.793174124,2.908485019
+GO:0045184,establishment of protein localization,45184,-1.769551079,2.914871818
+GO:0046907,intracellular transport,46907,-1.459670525,2.810232518
+GO:0051649,establishment of localization in cell,51649,-1.435333936,2.814913181
+GO:0070727,cellular macromolecule localization,70727,-1.379863945,2.945960704
+GO:0006950,response to stress,-7.432973634,3.167317335,7.85099674
+GO:0006952,defense response,-2.235077015,2.613841822,2.191224413
+GO:0006970,response to osmotic stress,-13.17069623,1.924279286,0.443589332
+GO:0006979,response to oxidative stress,-2.095284455,2.465382851,1.555234889
+GO:0006997,nucleus organization,-28.1408617,1.342422681,0.112233446
+GO:0008150,biological_process,-2.36251027,4.272120209,100
+GO:0008219,cell death,-8.437707136,1.505149978,0.165677943
+GO:0009058,biosynthetic process,-1.326058001,3.667359546,24.84100262
+GO:0009266,response to temperature stimulus,-10.12090412,2.212187604,0.865800866
+GO:0009414,response to water deprivation,-1.515700161,1.568201724,0.192400192
+GO:0009415,response to water,9415,-1.381951903,1.672097858
+GO:0009605,response to external stimulus,-1.809668302,2.655138435,2.410346855
+GO:0009607,response to biotic stimulus,-2.238072162,2.564666064,1.956068623
+GO:0009611,response to wounding,-2.022276395,1.851258349,0.374111485
+GO:0009615,response to virus,-16.84466396,1.041392685,0.053444498
+GO:0009626,plant-type hypersensitive response,-29.13489603,0.903089987,0.037411149
+GO:0006955,immune response,6955,-7.688246139,1.322219295
+GO:0012501,programmed cell death,12501,-15.61261017,1.397940009
+GO:0034050,programmed cell death induced by symbiont,34050,-28.62893214,0.903089987
+GO:0045087,innate immune response,45087,-8.208309351,1.278753601
+GO:0051702,biological process involved in interaction with symbiont,51702,-27.66958623,1
+GO:0009628,response to abiotic stimulus,-7.122053048,2.695481676,2.645502646
+GO:0009631,cold acclimation,-27.21467016,0.954242509,0.042755598
+GO:0009408,response to heat,9408,-4.100179498,1.959041392
+GO:0009409,response to cold,9409,-9.70333481,1.86332286
+GO:0009642,response to light intensity,-4.446116973,1.447158031,0.144300144
+GO:0009644,response to high light intensity,-24.77469072,1.230448921,0.085511197
+GO:0009651,response to salt stress,-19.70333481,1.792391689,0.326011437
+GO:0009653,anatomical structure morphogenesis,-4.850780887,2.33243846,1.143712255
+GO:0007275,multicellular organism development,7275,-1.537602002,2.69019608
+GO:0009791,post-embryonic development,9791,-1.924453039,2.439332694
+GO:0048856,anatomical structure development,48856,-3.037630664,2.812244697
+GO:0099402,plant organ development,99402,-1.744727495,2.320146286
+GO:0009719,response to endogenous stimulus,-2.653647026,2.800717078,3.372347817
+GO:0009751,response to salicylic acid,-5.189767482,1.255272505,0.090855646
+GO:0009790,embryo development,-2.19859629,1.832508913,0.358078136
+GO:0009888,tissue development,-4.254925208,2.037426498,0.577200577
+GO:0009987,cellular process,-3.548213564,4.140036411,73.77478489
+GO:0010035,response to inorganic substance,-2.777283529,2.209515015,0.860456416
+GO:0010112,regulation of systemic acquired resistance,-58.43062609,0.77815125,0.026722249
+GO:0002833,positive regulation of response to biotic stimulus,2833,-14.93181414,1.176091259
+GO:0031349,positive regulation of defense response,31349,-13.31966449,1.204119983
+GO:0032103,positive regulation of response to external stimulus,32103,-14.43179828,1.230448921
+GO:1900424,regulation of defense response to bacterium,1900424,-27.21467016,0.698970004
+GO:0010197,polar nucleus fusion,-42.89279003,0.84509804,0.032066699
+GO:0000741,karyogamy,741,-42.89279003,0.84509804
+GO:0030154,cell differentiation,30154,-2.057000407,2.26245109
+GO:0010286,heat acclimation,-22.44129143,0.903089987,0.037411149
+GO:0010646,regulation of cell communication,-3.472370099,2.155336037,0.75891187
+GO:0014070,response to organic cyclic compound,-2.229884705,1.763427994,0.304633638
+GO:0016051,carbohydrate biosynthetic process,-3.045275209,2.480006943,1.608679386
+GO:0019222,regulation of metabolic process,-4.441291429,3.510946949,17.32670622
+GO:0019637,organophosphate metabolic process,-1.512861625,2.84260924,3.714392603
+GO:0023051,regulation of signaling,-3.510041521,2.149219113,0.74822297
+GO:0032501,multicellular organismal process,-2.241845378,2.72916479,2.859280637
+GO:0032502,developmental process,-5.721246399,2.881954971,4.067126289
+GO:0033554,cellular response to stress,-3.928117993,2.767897616,3.126503127
+GO:0033993,response to lipid,-5.341988603,2.322219295,1.116990006
+GO:0040007,growth,-1.308034897,1.612783857,0.213777992
+GO:0040029,epigenetic regulation of gene expression,-7.991399828,1.770852012,0.309978088
+GO:0006325,chromatin organization,6325,-4.242603971,2.456366033
+GO:0006338,chromatin remodeling,6338,-4.860120914,2.357934847
+GO:0042221,response to chemical,-4.380906669,3.103803721,6.782106782
+GO:0042546,cell wall biogenesis,-3.950781977,2.068185862,0.619956176
+GO:0071669,plant-type cell wall organization or biogenesis,71669,-3.063989204,2.086359831
+GO:0043933,protein-containing complex organization,-1.435333936,2.868644438,3.944203944
+GO:0044085,cellular component biogenesis,-2.337242168,2.980911938,5.109293998
+GO:0016043,cellular component organization,16043,-1.602059991,3.288249226
+GO:0044248,cellular catabolic process,-1.361510743,2.767897616,3.126503127
+GO:0044270,cellular nitrogen compound catabolic process,-5,2.245512668,0.935278713
+GO:0019439,aromatic compound catabolic process,19439,-4.298432015,2.334453751
+GO:0046700,heterocycle catabolic process,46700,-4.987162775,2.243038049
+GO:0044403,biological process involved in symbiotic interaction,-19.5654311,1.176091259,0.074822297
+GO:0044419,biological process involved in interspecies interaction between organisms,-2.242603971,2.552668216,1.902624125
+GO:0046364,monosaccharide biosynthetic process,-24.05898576,1.591064607,0.203089092
+GO:0046486,glycerolipid metabolic process,-4.066006836,2.315970345,1.100956657
+GO:0006644,phospholipid metabolic process,6644,-3.467245621,2.451786436
+GO:0008610,lipid biosynthetic process,8610,-1.348721986,2.751279104
+GO:0090407,organophosphate biosynthetic process,90407,-2.403402904,2.683047038
+GO:0048284,organelle fusion,-16.51712642,1.633468456,0.224466891
+GO:0048316,seed development,-4.467245621,1.995635195,0.523756079
+GO:0003006,developmental process involved in reproduction,3006,-2.68613278,2.385606274
+GO:0009793,embryo development ending in seed dormancy,9793,-2.308034897,1.826074803
+GO:0022414,reproductive process,22414,-2.097997109,2.514547753
+GO:0048608,reproductive structure development,48608,-2.557520231,2.340444115
+GO:0048518,positive regulation of biological process,-3.444905551,2.685741739,2.586713698
+GO:0048583,regulation of response to stimulus,-8.91721463,2.404833717,1.352145797
+GO:0048584,positive regulation of response to stimulus,-21.61439373,1.69019608,0.25653359
+GO:0002831,regulation of response to biotic stimulus,2831,-7.20481541,1.681241237
+GO:0009966,regulation of signal transduction,9966,-3.591760035,2.149219113
+GO:0032101,regulation of response to external stimulus,32101,-6.779891912,1.698970004
+GO:0048522,positive regulation of cellular process,48522,-1.519993057,2.58546073
+GO:0080134,regulation of response to stress,80134,-13.34678749,2.117271296
+GO:0048589,developmental growth,-1.628932138,1.505149978,0.165677943
+GO:0048869,cellular developmental process,-1.628932138,2.294466226,1.047512159
+GO:0050789,regulation of biological process,-2.436518915,3.644635504,23.57436802
+GO:0050793,regulation of developmental process,-3.896196279,2.294466226,1.047512159
+GO:0050794,regulation of cellular process,-3.319664487,3.587935349,20.68836513
+GO:0050896,response to stimulus,-6.177831921,3.504606771,17.07551708
+GO:0051052,regulation of DNA metabolic process,-10.84466396,1.643452676,0.229811341
+GO:0051607,defense response to virus,-29.65955589,1,0.048100048
+GO:0051716,cellular response to stimulus,-4.806875402,3.242292905,9.331409331
+GO:0060255,regulation of macromolecule metabolic process,-5.062983893,3.504062883,17.05413928
+GO:0006355,regulation of DNA-templated transcription,6355,-2.850780887,3.364363355
+GO:0009889,regulation of biosynthetic process,9889,-2.446116973,3.42894429
+GO:0010468,regulation of gene expression,10468,-3.555955204,3.468051791
+GO:0010556,regulation of macromolecule biosynthetic process,10556,-2.694648631,3.426511261
+GO:0019219,regulation of nucleobase-containing compound metabolic process,19219,-4.308918508,3.386677284
+GO:0031323,regulation of cellular metabolic process,31323,-3.709965389,3.458486764
+GO:0031326,regulation of cellular biosynthetic process,31326,-2.55129368,3.427486109
+GO:0051171,regulation of nitrogen compound metabolic process,51171,-3.716698771,3.469380136
+GO:0051252,regulation of RNA metabolic process,51252,-2.659555885,3.379486814
+GO:0080090,regulation of primary metabolic process,80090,-3.609064893,3.472902652
+GO:2001141,regulation of RNA biosynthetic process,2001141,-2.847711656,3.364363355
+GO:0062197,cellular response to chemical stress,-14.67778071,1.892094603,0.411522634
+GO:0065007,biological regulation,-2.268411235,3.6658623,24.75549142
+GO:0070588,calcium ion transmembrane transport,-21.03245202,1.72427587,0.277911389
+GO:0006812,monoatomic cation transport,6812,-2.196542884,2.674861141
+GO:0006816,calcium ion transport,6816,-13.21896306,1.740362689
+GO:0030001,metal ion transport,30001,-2.89279003,2.40654018
+GO:0034220,monoatomic ion transmembrane transport,34220,-4.261219442,2.709269961
+GO:0098655,monoatomic cation transmembrane transport,98655,-4.4867824,2.635483747
+GO:0071452,cellular response to singlet oxygen,-300,1,0.048100048
+GO:0000304,response to singlet oxygen,304,-120.2313619,1
+GO:0034599,cellular response to oxidative stress,34599,-24.77469072,1.84509804
+GO:0034614,cellular response to reactive oxygen species,34614,-97.89619628,1.556302501
+GO:0071554,cell wall organization or biogenesis,-1.747146969,2.67669361,2.5332692
+GO:0071702,organic substance transport,-3.121478204,3.169968174,7.899096788
+GO:0071824,protein-DNA complex organization,-3.806875402,2.51054501,1.726257282
+GO:0071840,cellular component organization or biogenesis,-2.866461092,3.349083169,11.93415638
+GO:0080135,regulation of cellular response to stress,-65.22621356,1.491361694,0.160333494
+GO:0031347,regulation of defense response,31347,-7.131355562,1.977723605
+GO:0080183,response to photooxidative stress,-120.2313619,0.84509804,0.032066699
+GO:0097305,response to alcohol,-11.15614458,2.06069784,0.609267276
+GO:0000302,response to reactive oxygen species,302,-10.27736608,1.880813592
+GO:0009725,response to hormone,9725,-2.696803943,2.799340549
+GO:0009737,response to abscisic acid,9737,-5.872895202,2.053078443
+GO:0009755,hormone-mediated signaling pathway,9755,-2.032452024,2.632457292
+GO:0071310,cellular response to organic substance,71310,-2.057000407,2.679427897
+GO:0071396,cellular response to lipid,71396,-3.88941029,2.1430148
+GO:1901701,cellular response to oxygen-containing compound,1901701,-8.055024092,2.301029996
+GO:0098542,defense response to other organism,-2.657577319,2.311753861,1.090267757
+GO:0009617,response to bacterium,9617,-1.388276692,1.568201724
+GO:0009620,response to fungus,9620,-1.522878745,1.875061263
+GO:0042742,defense response to bacterium,42742,-1.730487056,1.477121255
+GO:0043207,response to external biotic stimulus,43207,-2.241088108,2.530199698
+GO:0050832,defense response to fungus,50832,-1.91721463,1.857332496
+GO:0051707,response to other organism,51707,-2.258060922,2.530199698
+GO:0098660,inorganic ion transmembrane transport,-3.829738285,2.64738297,2.367591256
+GO:0140546,defense response to symbiont,-29.65955589,1,0.048100048
+GO:1900036,positive regulation of cellular response to heat,-259.093665,0.602059991,0.019597253
+GO:0006282,regulation of DNA repair,6282,-47.9788107,0.84509804
+GO:1900034,regulation of cellular response to heat,1900034,-130.1555228,0.954242509
+GO:1900055,regulation of leaf senescence,-30.20342567,0.602059991,0.016033349
+GO:1901135,carbohydrate derivative metabolic process,-1.355561411,2.820857989,3.53268131
+GO:1901137,carbohydrate derivative biosynthetic process,-2.623423043,2.653212514,2.399657955
+GO:1901361,organic cyclic compound catabolic process,-4.015922966,2.344392274,1.175778954
+GO:1901576,organic substance biosynthetic process,-1.468521083,3.651859269,23.9698573
+GO:1901672,positive regulation of systemic acquired resistance,-259.093665,0.477121255,0.0106889
+GO:1900426,positive regulation of defense response to bacterium,1900426,-51.01412464,0.602059991
+GO:1901700,response to oxygen-containing compound,-7.20481541,2.57863921,2.02020202
+GO:0010033,response to organic substance,10033,-2.928117993,2.903089987
+GO:0070887,cellular response to chemical stimulus,70887,-4.581698709,2.905256049
+GO:1903509,liposaccharide metabolic process,-11.25963731,1.77815125,0.315322538
+GO:1905392,plant organ morphogenesis,-9.777283529,1.77815125,0.315322538
+GO:0010015,root morphogenesis,10015,-4.386158178,1.579783597
+GO:0048366,leaf development,48366,-7.530177984,1.792391689
+GO:0048827,phyllome development,48827,-4.467245621,1.929418926
+GO:2000241,regulation of reproductive process,-2.590066877,1.949390007,0.470311581
