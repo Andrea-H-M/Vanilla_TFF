@@ -8,7 +8,7 @@
 ## TransDecoder, Trinotate and BLAST are installed in Ubuntu
 ## PFAM and Uniprot databases are downloaded
 
-##################################---Anotation-TransDecoder---###################################
+##################################---Annotation-TransDecoder---###################################
 
 TransDecoder.LongOrfs -t trinity_out_dir/Trinity.fasta
 
