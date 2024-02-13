@@ -1,2 +1,5 @@
 # Vanilla_TFF
-These files contain the pipeline used to quality analysis for RNA-seq, de novo assamble, anotation by GO, PFM and UniProt.
+These files contain the pipeline used to a RNA-seq analysis.
+1. Quality analysis
+2. De novo assembly
+3. Annotation
