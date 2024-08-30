@@ -1,5 +1,5 @@
-,Table S14 GO enrichment of biological process of Post-Pol stage,,,
-TermID,Name,Value,LogSize,Frequency
+,Table S14. GO enrichment analysis of biological processes at the Post-pol stage,,,
+Term ID,Name,Value,LogSize,Frequency
 GO:0000038,very long-chain fatty acid metabolic process,-12.51570016,0.477121255,0.0106889
 GO:0000302,response to reactive oxygen species,-3.610833916,1.880813592,0.400833734
 GO:0000413,protein peptidyl-prolyl isomerization,-5.774690718,1.707570176,0.267222489

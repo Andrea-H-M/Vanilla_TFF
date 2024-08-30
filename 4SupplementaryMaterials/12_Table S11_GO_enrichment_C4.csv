@@ -1,4 +1,4 @@
-,Table S11 GO enrichment of cluster 4,,,,,
+,Table S11. GO enrichment of cluster 4,,,,,
 Ontology Database ID, Ontology Name,Number of genes annotated to the ontology in input,Number of genes annotated to the ontology in background,p-value,Ontology Category,Ontology description
 GO:0005575,cellular_component,97,43766,1.08E-20,cellular_component,"A location, relative to cellular compartments and structures, occupied by a macromolecular machine when it carries out a molecular function. There are two ways in which the gene ontology describes locations of gene products: (1) relative to cellular structures (e.g., cytoplasmic side of plasma membrane) or compartments (e.g., mitochondrion), and (2) the stable macromolecular complexes of which they are parts (e.g., the ribosome)."
 GO:0043226,organelle,78,24436,4.39E-29,cellular_component,"Organized structure of distinctive morphology and function. Includes the nucleus, mitochondria, plastids, vacuoles, vesicles, ribosomes and the cytoskeleton, and prokaryotic structures such as anammoxosomes and pirellulosomes. Excludes the plasma membrane."

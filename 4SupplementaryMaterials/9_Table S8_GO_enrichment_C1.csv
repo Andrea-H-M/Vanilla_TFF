@@ -1,4 +1,4 @@
-,Table S8 GO enrichment of cluster 1,,,,,
+,Table S8. GO enrichment of cluster 1,,,,,
 Ontology Database ID, Ontology Name,Number of genes annotated to the ontology in input,Number of genes annotated to the ontology in background,p-value,Ontology Category,Ontology description
 GO:0005575,cellular_component,56,43766,6.67E-15,cellular_component,"A location, relative to cellular compartments and structures, occupied by a macromolecular machine when it carries out a molecular function. There are two ways in which the gene ontology describes locations of gene products: (1) relative to cellular structures (e.g., cytoplasmic side of plasma membrane) or compartments (e.g., mitochondrion), and (2) the stable macromolecular complexes of which they are parts (e.g., the ribosome)."
 GO:0031461,cullin-RING ubiquitin ligase complex,1,288,3.01E-02,cellular_component,Any ubiquitin ligase complex in which the catalytic core consists of a member of the cullin family and a RING domain protein; the core is associated with one or more additional proteins that confer substrate specificity.

@@ -1,4 +1,4 @@
-,Table S9 GO enrichment of cluster 2,,,,,
+,Table S9. GO enrichment of cluster 2,,,,,
 Ontology Database ID, Ontology Name,Number of genes annotated to the ontology in input,Number of genes annotated to the ontology in background,p-value,Ontology Category,Ontology description
 PO:0009011,plant structure,3,33953,8.58E-16,plant_anatomy,"A plant anatomical entity (PO:0025131) that is, or was, part of a plant, or was derived from a part of a plant."
 PO:0025131,plant anatomical entity,3,33965,8.41E-16,plant_anatomy,An anatomical entity that is or was part of a plant.

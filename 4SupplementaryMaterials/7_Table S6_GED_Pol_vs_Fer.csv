@@ -1,5 +1,5 @@
-,"Table S6 DEGs between Pol vs Fer, up-regulated and down-regulated",,,,,,
-ID,sampleA,sampleB,log2FoldChange,pvalue,padj,Uniprot annotation,Regulation
+,"Table S6. DEGs between Pol vs Fer, up-regulated and down-regulated",,,,,,
+ID,sampleA,sampleB,log2 Fold Change,p-value,Adjusted p-value (padj),Uniprot annotation,Regulation
 TRINITY_DN6029_c0_g1_i7,Pol,Fer,12.06042921,1.01E-12,9.14E-10,G6PD_SOLTU,up
 TRINITY_DN19_c0_g3_i1,Pol,Fer,11.83218121,8.05E-11,4.05E-08,HSP7C_PETHY,up
 TRINITY_DN3944_c0_g1_i6,Pol,Fer,11.63562884,5.59E-12,4.11E-09,MA651_ARATH,up

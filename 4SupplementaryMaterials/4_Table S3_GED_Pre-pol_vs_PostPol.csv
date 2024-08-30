@@ -1,5 +1,5 @@
-,"Table S3 DEGs between Pre-Pol vs Post-pol, up-regulated and down-regulated",,,,,,
-ID,sampleA,sampleB,log2FoldChange,pvalue,padj,Uniprot annotation,Regulation
+,"Table S3. DEGs between Pre-Pol vs Post-pol, up-regulated and down-regulated",,,,,,
+ID,sampleA,sampleB,log2 Fold Change,p-value,Adjusted p-value (padj),Uniprot annotation,Regulation
 TRINITY_DN7719_c0_g1_i1,Pre-pol,Post-pol,15.95244378,6.77E-25,4.93E-21,HSP21_SOYBN,up
 TRINITY_DN1811_c0_g1_i2,Pre-pol,Post-pol,15.55024027,1.67E-23,9.13E-20,BAG6_ARATH,up
 TRINITY_DN7172_c0_g1_i40,Pre-pol,Post-pol,13.30370911,1.50E-17,2.73E-14,FKB70_WHEAT,up

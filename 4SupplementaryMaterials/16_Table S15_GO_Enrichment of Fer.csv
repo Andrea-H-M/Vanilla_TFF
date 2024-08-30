@@ -1,5 +1,5 @@
-,Table S15 GO enrichment of biological process of Fer stage,,,
-TermID,Name,Value,Value,Frequency
+,Table S15. GO enrichment analysis of biological processes at the Fer stage,,,
+Term ID,Name,Value,Value,Frequency
 GO:0001101,response to acid chemical,-8.694648631,1.672097858,0.24584469
 GO:0006081,cellular aldehyde metabolic process,-6.583359493,1.62324929,0.219122441
 GO:0006102,isocitrate metabolic process,-28.1739252,1.041392685,0.053444498

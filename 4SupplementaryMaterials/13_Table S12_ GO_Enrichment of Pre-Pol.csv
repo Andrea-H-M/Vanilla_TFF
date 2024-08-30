@@ -1,5 +1,5 @@
-,Table S12 GO enrichment of biological process of Pre-Pol stage,,,
-TermID,Name,Value,LogSize,Frequency
+,Table S12. GO enrichment analysis of biological processes at the Pre-pol stage,,,
+Term ID,Name,Value,LogSize,Frequency
 GO:0000413,protein peptidyl-prolyl isomerization,-8.331614083,1.707570176,0.267222489
 GO:0001101,response to acid chemical,-2.105683937,1.672097858,0.24584469
 GO:0002831,regulation of response to biotic stimulus,-3.661543506,1.681241237,0.25118914

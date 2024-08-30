@@ -1,4 +1,4 @@
-,Table S10 GO enrichment of cluster 3,,,,,
+,Table S10. GO enrichment of cluster 3,,,,,
 Ontology Database ID, Ontology Name,Number of genes annotated to the ontology in input,Number of genes annotated to the ontology in background,p-value,Ontology Category,Ontology description
 GO:0003674,molecular_function,90,57742,3.71E-08,molecular_function,"A molecular process that can be carried out by the action of a single macromolecular machine, usually via direct physical interactions with other molecular entities. Function in this sense denotes an action, or activity, that a gene product (or a complex) performs."
 GO:0005575,cellular_component,101,43766,6.26E-26,cellular_component,"A location, relative to cellular compartments and structures, occupied by a macromolecular machine when it carries out a molecular function. There are two ways in which the gene ontology describes locations of gene products: (1) relative to cellular structures (e.g., cytoplasmic side of plasma membrane) or compartments (e.g., mitochondrion), and (2) the stable macromolecular complexes of which they are parts (e.g., the ribosome)."

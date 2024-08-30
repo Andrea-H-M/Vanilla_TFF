@@ -1,5 +1,5 @@
-,"Table S4 DEGs between Pre-Pol vs Fer, up-regulated and down-regulated",,,,,,
-ID,sampleA,sampleB,log2FoldChange,pvalue,padj,Uniprot annotation,Regulation
+,"Table S4. DEGs between Pre-Pol vs Fer, up-regulated and down-regulated",,,,,,
+ID,sampleA,sampleB,log2 Fold Change,p-value,Adjusted p-value (padj),Uniprot annotation,Regulation
 TRINITY_DN1220_c0_g1_i9,Pre-pol,Fer,15.14574065,6.63E-18,4.05E-14,RVE8_ARATH,up
 TRINITY_DN19_c0_g3_i1,Pre-pol,Fer,14.21168175,4.19E-13,4.52E-10,HSP7C_PETHY,up
 TRINITY_DN320_c1_g1_i3,Pre-pol,Fer,13.75781249,1.85E-15,3.77E-12,MYB05_ANTMA,up

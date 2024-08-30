@@ -1,5 +1,5 @@
-,Table S13 GO enrichment of biological process of Pol stage,,,
-TermID,Name,Value,LogSize,Frequency
+,Table S13. GO enrichment analysis of biological processes at the Pol stage,,,
+Term ID,Name,Value,LogSize,Frequency
 GO:0001101,response to acid chemical,-1.348721986,1.672097858,0.24584469
 GO:0002376,immune system process,-6.256490235,1.342422681,0.112233446
 GO:0005996,monosaccharide metabolic process,-6.882728704,2.311753861,1.090267757
