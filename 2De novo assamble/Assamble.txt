@@ -7,7 +7,7 @@
 ## Contig-Nx-and-ExN50-stats                                                                  ##
 ## https://github-wiki-see.page/m/trinityrnaseq/BernWorkshop2018/wiki/Day_1_                  ##
 ## Afternoon_Quantitation                                                                     ##
-## https://github.com/trinityrnaseq/trinityrnaseq/wiki/Transcriptome-Contig-Nx-and-ExN50-stats##                                                                   ##                      
+## https://github.com/trinityrnaseq/trinityrnaseq/wiki/Transcriptome-Contig-Nx-and-ExN50-stats##                                                                   ##                                                                                            ##
 ################################################################################################
 
 
