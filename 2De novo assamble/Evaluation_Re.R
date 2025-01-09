@@ -38,25 +38,9 @@ dds <- DESeq(dds)
 # Visualize dispersion
 plotDispEsts(dds)
 
-# 1. Evaluate replicate similarity with PCA
-vsd <- vst(dds, blind = FALSE)
-plotPCA(vsd, intgroup = "condition")
-
-# 2. Distance matrix
-sampleDists <- dist(t(assay(vsd)))
-heatmap(as.matrix(sampleDists), symm = TRUE)
-
-# 3. Correlation matrix
-correlation_matrix <- cor(assay(vsd))
-heatmap(correlation_matrix, symm = TRUE)
-
 # 4. Pearson correlation between the first two replicates
 correlation_pearson <- cor(assay(vsd)[, 1], assay(vsd)[, 2], method = "pearson")
 cat("Pearson correlation between replicates 1 and 2: ", correlation_pearson, "\n")
-
-# 5. Spearman correlation between the first two replicates
-correlation_spearman <- cor(assay(vsd)[, 1], assay(vsd)[, 2], method = "spearman")
-cat("Spearman correlation between replicates 1 and 2: ", correlation_spearman, "\n")
 
 # 6. Pearson correlation across all samples
 correlation_matrix_pearson <- cor(assay(vsd), method = "pearson")
@@ -75,8 +59,3 @@ corrplot(correlation_matrix_pearson, method = "color", type = "upper",
          addCoef.col = "black",        # Display numerical values in black
          number.cex = 0.7,             # Number size
          mar = c(0, 0, 1, 0))
-
-# 7. Spearman correlation across all samples
-correlation_matrix_spearman <- cor(assay(vsd), method = "spearman")
-cat("Spearman correlation matrix: \n")
-print(correlation_matrix_spearman)
