@@ -1,0 +1,15 @@
+,Table S1. Results of the dependent samples t-test used to assess the statistical significance of gene expression normalized at the Pol stage in comparison to the other stages,
+genes,diff_expression,t_test_p_value
+MORC2_ARATH,2,5.28E-105
+SRPK_PHYPO,2,5.28E-105
+LYPA2_RAT,2,5.28E-105
+SCAPE_HUMAN,2,5.28E-105
+PIGA_ARATH,2,5.28E-105
+VPS3_ARATH,2,5.28E-105
+FGT1_ARATH,2,5.28E-105
+PP349_ARATH,2,5.28E-105
+TOP1_RICBR,2,5.28E-105
+NFD4_ARATH,2,5.28E-105
+PCKA1_ARATH,2,5.28E-105
+ACA1_ARATH,2,5.28E-105
+OBL1_TOBAC,1.889363949,1.37E-103
