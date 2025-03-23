@@ -1,5 +1,5 @@
 ,Table S1. Results of the dependent samples t-test used to assess the statistical significance of gene expression normalized at the Pre-pol stage in comparison to the other stages,
-Genes,Differential expression,t test p-value
+genes,diff_expression,t_test_p_value
 NAC14_ARATH,2,2.14E-244
 CA1P_WHEAT,2,2.14E-244
 MSR1_ARATH,2,2.14E-244
