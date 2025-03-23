@@ -1,5 +1,5 @@
 ,Table S1. All DEGs obtained in this study.,,,,,,,,
-ID,Uniprot annotation,PFAM ID,PFAM description,GO-terms linked to biological process,BP description,GO-terms linked to molecular function,MF description,GO-terms linked to cellular component,CC description
+ID,Uniprot annotation,PFAM ID,PFAM description,GO-terms linked to biological process (BP),BP description,GO-terms linked to molecular function (MF),MF description,GO-terms linked to cellular component (CC),CC description
 TRINITY_DN13630_c0_g1_i7,GASA6_ARATH,PF02704.15,Gibberellin regulated protein  ,.,.,.,.,.,.
 TRINITY_DN2731_c0_g1_i9,HIP24_ARATH,PF00542.20,Ribosomal protein L7/L12 C-terminal domain,|0006412|0000455|0030490|0006351|0030001,|translation|enzyme-directed rRNA pseudouridine synthesis|maturation of SSU-rRNA|transcription DNA-templated|metal ion transport,|0003735|1904047|0016740|0003735|0003723|0046872|0005515,|structural constituent of ribosome|S-adenosyl-L-methionine binding|transferase activity|structural constituent of ribosome|RNA binding|metal ion binding|protein binding,|0005840|0005737|0005634|0015934|0016021|0005886,|ribosome|cytoplasm|nucleus|large ribosomal subunit|integral component of membrane|plasma membrane
 TRINITY_DN1008_c0_g1_i2,TIC40_PEA,.,.,.,.,.,.,|0016021,|integral component of membrane
